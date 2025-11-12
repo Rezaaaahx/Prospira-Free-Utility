@@ -1,4 +1,4 @@
-# 🚀 Prospira Free Utility  
+# ⚙️ Prospira Free Utility  
 
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Rezaaaahx/Prospira-Free-Utility)
 
@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/Prospirabanner.png" alt="Prospira Free Utility Banner" width="900">
 </p>
 
-**Prospira Free Utility** is a simple and effective Windows optimization tool that helps your PC run faster, smoother, and cleaner — all with just a few clicks.  
+**Prospira Free Utility** is a simple and effective Windows optimization tool that helps your PC run faster, smoother, and cleaner - all with just a few clicks.  
 It uses a smart set of tweaks to improve performance, clean unnecessary files, and make your system more responsive.
 
 ---
@@ -14,7 +14,7 @@ It uses a smart set of tweaks to improve performance, clean unnecessary files, a
 ## 🔍 What is Prospira?
 
 Prospira Free Utility is a free CMD-based tool that automates performance improvements for Windows.  
-You don’t need to be a tech expert — everything is controlled through an easy, step-by-step menu.  
+You don’t need to be a tech expert - everything is controlled through an easy, step-by-step menu.  
 Choose what you want to optimize, press a number, and let Prospira do the rest.
 
 <p align="center">
@@ -25,19 +25,20 @@ Choose what you want to optimize, press a number, and let Prospira do the rest.
 
 ## ✨ Key Features
 
-✅ **Boost Performance** – Speeds up your computer by turning off unnecessary background services and processes.  
+✅ **Boost Performance** – Speeds up your PC by turning off unnecessary background services and processes.  
 ✅ **Registry Optimization** – Applies safe and proven tweaks that make Windows respond faster.  
 ✅ **Network Acceleration** – Optimizes your network settings for better connection speed and lower ping.  
 ✅ **System Cleanup** – Removes temporary files, cache, and other clutter taking up space.  
 ✅ **Privacy Tweaks** – Disables telemetry and background tracking to make your PC more private.  
-✅ **Power Settings** – Adjusts system power options for better efficiency or maximum performance.  
+✅ **Power Settings** – Adjusts system power options for better perfomance.  
 
 ---
 
 ## 💻 Requirements
 
-- Windows 10 or Windows 11  
-- Internet connection (for some features)  
+- Windows 11
+- PC or Laptop
+- Internet connection
 - Administrator rights to run the script  
 
 ---
@@ -45,11 +46,10 @@ Choose what you want to optimize, press a number, and let Prospira do the rest.
 ## 🧠 How to Use
 
 1. Go to the **Releases** section of this repository.  
-2. Download **`ProspiraFreeUtility.bat`**.  
+2. Download **`ProspiraFreeUtility.exe`**.  
 3. Right-click the file and choose **Run as Administrator**.  
-4. Follow the instructions in the window — each option is clearly described.  
-5. Type the number of the optimization you want and press **Enter**.  
-6. When finished, restart your PC to apply the changes.  
+4. Follow the instructions in the window - each option is clearly described.    
+5. When finished, restart your PC to apply the changes.  
 
 ---
 
