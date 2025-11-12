@@ -10,7 +10,7 @@ Prospira Free Utility is a CMD-based optimization tool for Windows. It applies a
 
 ## Overview 🔎
 
-This repository contains a utility designed to automate various system optimization tasks through a simple command-line interface. It is targeted at users looking to boost their PC's performance without manually navigating through complex Windows settings and the registry.
+This repository contains a utility designed to automate various system optimization tasks through a simple CMD interface. It is targeted at users looking to boost their PC's performance without manually navigating through complex Windows settings and the registry.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/tutorialwelcome.png" alt="Prospira Free Utility Screenshot" width="800">
