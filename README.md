@@ -1,2 +1,32 @@
 # Prospira-Free-Utility
-A CMD Windows optimization utility that applies performance tweaks, registry enhancements, network improvements, and system cleanup to improve overall system responsiveness.
+[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Rezaaaahx/Prospira-Free-Utility)
+
+Prospira Free Utility is a CMD-based optimization tool for Windows. It applies a collection of performance tweaks, registry enhancements, network improvements, and system cleanup scripts to improve the overall responsiveness and efficiency of your system.
+
+## Overview
+
+This repository contains a utility designed to automate various system optimization tasks through a simple command-line interface. It is targeted at users looking to boost their PC's performance without manually navigating through complex Windows settings and the registry.
+
+## Features
+
+*   **Performance Tweaks:** Implements various system settings adjustments aimed at maximizing performance.
+*   **Registry Enhancements:** Applies a set of curated registry changes to reduce system latency and improve responsiveness.
+*   **Network Improvements:** Modifies network-related configurations to potentially enhance connection stability and speed.
+*   **System Cleanup:** Helps free up disk space by running cleanup tasks that remove temporary and unnecessary files.
+
+## Usage
+
+**Important:** This script makes significant changes to your system configuration, including the Windows Registry. It is strongly recommended that you create a System Restore Point before running the utility.
+
+1.  Download the script from this repository.
+2.  Right-click the script file and select **Run as administrator**. Administrator privileges are required to modify system settings and the registry.
+3.  Follow the instructions presented in the command prompt window.
+4.  Once the script has finished, it is recommended to restart your computer for all changes to take effect.
+
+## Disclaimer
+
+Use this utility at your own risk. The creator is not responsible for any potential damage, data loss, or system instability that may result from its use. Always back up your important data and create a System Restore Point before applying any system modifications.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. For more details, see the [LICENSE](LICENSE) file.
