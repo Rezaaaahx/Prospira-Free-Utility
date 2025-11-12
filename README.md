@@ -16,12 +16,12 @@ This repository contains a utility designed to automate various system optimizat
 
 ## Usage
 
-**Important:** This script makes significant changes to your system configuration, including the Windows Registry. It is strongly recommended that you create a System Restore Point before running the utility.
+**Important:** This script makes significant changes to your system configuration, including the Windows Registry. It is strongly recommended to create a System Restore Point before applying any tweaks. The option to do so is included in the script.
 
 1.  Download the script from this repository.
 2.  Right-click the script file and select **Run as administrator**. Administrator privileges are required to modify system settings and the registry.
 3.  Follow the instructions presented in the command prompt window.
-4.  Once the script has finished, it is recommended to restart your computer for all changes to take effect.
+4.  After making your selections, it is recommended to restart your computer to ensure all changes take effect.
 
 ## Disclaimer
 
