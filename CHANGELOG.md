@@ -11,7 +11,6 @@
 - Added a **login system** (username + password).
 - Added **first-time setup** for new users.
 - Added **password reset option**.
-- Added **restore point creation** before running tweaks.
 - Added **colored console text** for a better look.
 - Added **automatic admin rights check** and elevation if needed.
 - Added **UTF-8 support** for proper display and input.
@@ -19,12 +18,13 @@
 - Added **auto restart as admin** if permissions are missing.
 - Added a simple **folder test/cleanup** inside System32.
 - Added **PowerShell ExecutionPolicy** bypass setup for compatibility.
+- Added **System Info** section to view detailed PC information.
 
 ---
 
 ## ⚙️ System
 
-- Fully menu-based batch layout with sections for future tweaks.
+- Fully menu-based batch layout with categorized tweak sections.
 - Improved startup detection and setup logic.
 - Automatically skips setup if license already exists.
 - Cleaner visuals and easier navigation between menus.
@@ -39,39 +39,38 @@
 
 ---
 
-## ⚙️ Tools & Tweaks
+## 🧩 Tools & Tweaks
 
-- Added a full set of **system optimization tweaks**, split into categories:
-  - **BCDEdit tweaks** — improve system timer and boot performance.
-  - **Privacy tweaks** — disable telemetry, tracking, feedback, and ads.
-  - **Performance tweaks** — adjust MMCSS and core Windows settings for smoother performance.
-  - **Network tweaks** — reduce latency and improve connection stability.
-  - **Visual tweaks** — turn off animations and effects to boost speed.
-  - **Service tweaks** — disable unused Windows services.
-  - **Extra tweaks** — small fixes and adjustments that improve overall system behavior.
-- Added a **restore point creation** feature before applying changes.
+- Includes a full set of **system optimization tweaks**, grouped by category:
+  - **BCDEdit tweaks** - improve system timer and boot settings.
+  - **Privacy tweaks** - disable telemetry, tracking, feedback, and ads.
+  - **Performance tweaks** - adjust system settings for smoother performance.
+  - **Network tweaks** - reduce latency and improve connection stability.
+  - **Visual tweaks** - disable animations and effects for faster response.
+  - **Service tweaks** - turn off unnecessary background services.
+  - **Extra tweaks** - smaller system optimizations and fixes.
+- Built-in **restore point creation** before applying any tweaks.
 - Includes a **revert option** to undo all tweaks if needed.
 
 ---
 
 ## 🔍 Behind the Scenes
 
-- Over 60 internal script sections for stability.
-- Added comments, GPL license info, and structure for future updates.
-- Built base for adding new utilities and modules later.
+- Over 60 internal script sections ensure modularity and reliability.
+- Added comments, GPL license header, and preparation for future updates.
+- Base framework for adding new utilities and modules in upcoming versions.
 
 ---
 
 ## ❤️ Credits
 
 - Created and maintained by **p.rezaa**
-  
+
 ---
 
 ## 🔮 Coming Next (V0.2 Preview)
  
 - Optional auto-update system
-- MORE SOON
+- MORE SOON 
 
 ---
-
