@@ -72,5 +72,5 @@ Always back up your important files before applying system changes.
 ## 🧾 License
 
 This project is released under the **GNU General Public License v3.0**.  
-You are free to use, modify, and share it — just give proper credit.  
+You are free to use, modify, and share it - just give proper credit.  
 See the [LICENSE](LICENSE) file for details.
