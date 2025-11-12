@@ -1,4 +1,4 @@
-# Prospira Free Utility ⚙️  
+# 🚀 Prospira Free Utility  
 
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Rezaaaahx/Prospira-Free-Utility)
 
@@ -6,15 +6,16 @@
   <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/Prospirabanner.png" alt="Prospira Free Utility Banner" width="900">
 </p>
 
-**Prospira Free Utility** is a CMD-based optimization tool for Windows.  
-It applies a collection of performance tweaks, registry enhancements, network improvements, and system cleanup scripts to improve the overall responsiveness and performance of your system.
+**Prospira Free Utility** is a simple and effective Windows optimization tool that helps your PC run faster, smoother, and cleaner — all with just a few clicks.  
+It uses a smart set of tweaks to improve performance, clean unnecessary files, and make your system more responsive.
 
 ---
 
-## Overview 🔎
+## 🔍 What is Prospira?
 
-This repository contains a utility designed to automate various system optimization tasks through a simple CMD interface.  
-It is targeted at users looking to boost their PC's performance without manually navigating through complex Windows settings and the registry.
+Prospira Free Utility is a free CMD-based tool that automates performance improvements for Windows.  
+You don’t need to be a tech expert — everything is controlled through an easy, step-by-step menu.  
+Choose what you want to optimize, press a number, and let Prospira do the rest.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/tutorialwelcome.png" alt="Prospira Free Utility Screenshot" width="800">
@@ -22,73 +23,54 @@ It is targeted at users looking to boost their PC's performance without manually
 
 ---
 
-## Features ✨
+## ✨ Key Features
 
-* **Performance Tweaks:** Implements various system settings adjustments aimed at maximizing performance.  
-* **Registry Enhancements:** Applies a set of curated registry changes to reduce system latency and improve responsiveness.  
-* **Network Improvements:** Modifies network-related configurations to potentially enhance connection stability and speed.  
-* **System Cleanup:** Helps free up disk space by running cleanup tasks that remove temporary and unnecessary files.
-
----
-
-## Usage 🛠️
-
-**Important:** This script makes significant changes to your system configuration, including the Windows Registry.  
-It is strongly recommended to create a System Restore Point before applying any tweaks. The option to do so is included in the script.
-
-1. Download the script from this repository.  
-2. Right-click the script file and select **Run as administrator**.  
-   Administrator privileges are required to modify system settings and the registry.  
-3. Follow the instructions presented in the command prompt window.  
-4. After making your selections, it is recommended to restart your computer to ensure all changes take effect.
-
----
-
-# Ancels Performance Batch ⚙️  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/AncelsBanner.png" alt="Ancels Performance Batch Banner" width="900">
-</p>
-
-**Ancels Performance Batch** is a compact Windows optimization script that complements **Prospira Free Utility**.  
-It focuses on quick, targeted tweaks to improve speed, reduce lag, and optimize system performance.
+✅ **Boost Performance** – Speeds up your computer by turning off unnecessary background services and processes.  
+✅ **Registry Optimization** – Applies safe and proven tweaks that make Windows respond faster.  
+✅ **Network Acceleration** – Optimizes your network settings for better connection speed and lower ping.  
+✅ **System Cleanup** – Removes temporary files, cache, and other clutter taking up space.  
+✅ **Privacy Tweaks** – Disables telemetry and background tracking to make your PC more private.  
+✅ **Power Settings** – Adjusts system power options for better efficiency or maximum performance.  
 
 ---
 
 ## 💻 Requirements
 
-- Windows 10 or 11  
-- Internet Connection  
-- Administrator Permissions  
+- Windows 10 or Windows 11  
+- Internet connection (for some features)  
+- Administrator rights to run the script  
 
 ---
 
-## ❓ How to Use
+## 🧠 How to Use
 
-1. Go to **Releases**.  
-2. Download **"AncelsPerformanceBatch.bat"**.  
-3. Run **"AncelsPerformanceBatch.bat"** as Administrator.  
-4. Press the number corresponding to the optimization you want to apply, and hit **Enter**.  
-
----
-
-## 🧩 Highlights
-
-* Lightweight CMD-based performance optimizer.  
-* Quick toggle system tweaks (Power, Network, Latency, and Cleanup).  
-* Ideal for users who want rapid optimizations without a full GUI utility.  
+1. Go to the **Releases** section of this repository.  
+2. Download **`ProspiraFreeUtility.bat`**.  
+3. Right-click the file and choose **Run as Administrator**.  
+4. Follow the instructions in the window — each option is clearly described.  
+5. Type the number of the optimization you want and press **Enter**.  
+6. When finished, restart your PC to apply the changes.  
 
 ---
 
-## Disclaimer ⚠️
+## 💡 Tips Before You Start
 
-Use these utilities at your own risk.  
-The creators are not responsible for any potential damage, data loss, or system instability that may result from their use.  
-Always back up your important data and create a System Restore Point before applying any system modifications.
+- It’s always a good idea to **create a System Restore Point** before applying any tweaks.  
+- Some changes may disable unused Windows features to improve speed.  
+- You can run Prospira again anytime to apply new optimizations or restore defaults.  
 
 ---
 
-## License 🧾  
+## ⚠️ Disclaimer
 
-This project is licensed under the **GNU General Public License v3.0**.  
-For more details, see the [LICENSE](LICENSE) file.
+Use this tool responsibly.  
+While all tweaks are tested and safe, the creator is **not responsible for any damage or data loss** caused by misuse or system conflicts.  
+Always back up your important files before applying system changes.
+
+---
+
+## 🧾 License
+
+This project is released under the **GNU General Public License v3.0**.  
+You are free to use, modify, and share it — just give proper credit.  
+See the [LICENSE](LICENSE) file for details.
