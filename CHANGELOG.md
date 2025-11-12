@@ -36,15 +36,21 @@
 - Stores user data safely in `%APPDATA%\ProspiraTweaks\`.
 - Login attempts have validation and feedback.
 - Password reset available if forgotten.
-- Prepares for future password masking support.
 
 ---
 
 ## ⚙️ Tools & Tweaks
 
-- Restore point creation.
-- System check and folder cleanup.
-- Base registry and PowerShell tweaks (ready for next versions).
+- Added a full set of **system optimization tweaks**, split into categories:
+  - **BCDEdit tweaks** — improve system timer and boot performance.
+  - **Privacy tweaks** — disable telemetry, tracking, feedback, and ads.
+  - **Performance tweaks** — adjust MMCSS and core Windows settings for smoother performance.
+  - **Network tweaks** — reduce latency and improve connection stability.
+  - **Visual tweaks** — turn off animations and effects to boost speed.
+  - **Service tweaks** — disable unused Windows services.
+  - **Extra tweaks** — small fixes and adjustments that improve overall system behavior.
+- Added a **restore point creation** feature before applying changes.
+- Includes a **revert option** to undo all tweaks if needed.
 
 ---
 
