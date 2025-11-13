@@ -46,7 +46,7 @@ Choose what you want to optimize, press a number, and let Prospira do the rest.
 ## 🧠 How to Use
 
 1. Go to the **Releases** section of this repository.  
-2. Download **`ProspiraFreeUtility.exe`**.  
+2. Download **`Prospira-Free-Utility-*.exe`**.  
 3. Right-click the file and choose **Run as Administrator**.  
 4. Follow the instructions in the window - each option is clearly described.    
 5. When finished, restart your PC to apply the changes.  
