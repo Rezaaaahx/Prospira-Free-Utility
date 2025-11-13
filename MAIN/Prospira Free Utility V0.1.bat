@@ -116,7 +116,7 @@ if errorlevel 1 (
     start https://prospiratweaks.com
     goto unsupported_windows
 )
-═════════
+
 :show_license
 cls
 call :check_daily_usage
@@ -158,7 +158,7 @@ if errorlevel 1 (
     call :save_license_acceptance
     goto check_credentials
 )
-════════════════════════ ════════════════════════════════════════════════
+
 :mainmenu1
 cls
 echo. 
@@ -3124,4 +3124,5 @@ goto :eof
 if not exist "%APPDATA%\ProspiraTweaks" mkdir "%APPDATA%\ProspiraTweaks" 2>nul
 >"%APPDATA%\ProspiraTweaks\license.dat" echo 1
 goto :eof
+
 
