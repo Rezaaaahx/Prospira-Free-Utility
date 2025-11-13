@@ -62,12 +62,6 @@
 
 ---
 
-## ❤️ Credits
-
-- Created and maintained by **p.rezaa**
-
----
-
 ## 🔮 Coming Next (V0.2 Preview)
  
 - Optional auto-update system
