@@ -3,7 +3,7 @@
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Rezaaaahx/Prospira-Free-Utility)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/Prospirabanner.png" alt="Prospira Free Utility Banner" width="900">
+  <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Utility/main/IMG/Prospirabanner.png" alt="Prospira Free Utility Banner" width="900">
 </p>
 
 **Prospira Free Utility** is a simple and effective Windows optimization tool that helps your PC run faster, smoother, and cleaner - all with just a few clicks.  
@@ -18,7 +18,7 @@ You don’t need to be a tech expert - everything is controlled through an easy,
 Choose what you want to optimize, press a number, and let Prospira do the rest.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Free-Utility/main/IMG/tutorialwelcome.png" alt="Prospira Free Utility Screenshot" width="800">
+  <img src="https://raw.githubusercontent.com/Rezaaaahx/Prospira-Utility/main/IMG/tutorialwelcome.png" alt="Prospira Free Utility Screenshot" width="800">
 </p>
 
 ---
