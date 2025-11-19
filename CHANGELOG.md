@@ -69,8 +69,6 @@
 
 ---
 
-Zrozumiałem. Oto osobny plik `CHANGELOG.md` tylko dla wersji V0.11, zawierający wyłącznie te 4 zmiany.
-
 # 🔵 Prospira Free Utility V0.11
 
 **Release Date:** 11/19/2025 📅
@@ -80,8 +78,8 @@ Zrozumiałem. Oto osobny plik `CHANGELOG.md` tylko dla wersji V0.11, zawierając
 
 ## ✨ Improvements & Changes
 
-* [cite_start]Replaced all legacy ASCII art (`/ \`) with a new, modern block-style (`█`) design across the entire utility [cite: 9-14, 36-41, 694-698, 735-740].
-* [cite_start]Added a new startup section to automatically add the script to Windows Defender exclusions, preventing false positive detections [cite: 699-705].
+* Replaced all legacy ASCII art (`/ \`) with a new, modern block-style (`█`) design across the entire utility.
+* Added a new startup section to automatically add the script to Windows Defender exclusions, preventing false positive detections.
 * Updated the resource download link for `NSudo.exe` to point to the new repository location.
 * Changed the script's file encoding from UTF-8 to UTF-8 with BOM to fix rendering issues with `echo` commands and special characters.
 
