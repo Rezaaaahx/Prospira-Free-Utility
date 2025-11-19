@@ -72,7 +72,6 @@
 # 🔵 Prospira Free Utility V0.11
 
 **Release Date:** 11/19/2025 📅
-**Author:** p.rezaa
 
 ---
 
