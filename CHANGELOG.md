@@ -1,11 +1,10 @@
 # 🔵 Prospira Free Utility V0.1
 
 **Release Date:** 11/12/2025 📅  
-**Author:** p.rezaa  
 
 ---
 
-## 🆕 New Stuff / Features
+### 🆕 New Stuff / Features
 
 - Added a **license system** (`license.dat` stored in AppData).
 - Added a **login system** (username + password).
@@ -22,7 +21,7 @@
 
 ---
 
-## ⚙️ System
+### ⚙️ System
 
 - Fully menu-based batch layout with categorized tweak sections.
 - Improved startup detection and setup logic.
@@ -31,7 +30,7 @@
 
 ---
 
-## 🔒 User & Security
+### 🔒 User & Security
 
 - Stores user data safely in `%APPDATA%\ProspiraTweaks\`.
 - Login attempts have validation and feedback.
@@ -39,7 +38,7 @@
 
 ---
 
-## 🧩 Tools & Tweaks
+### 🧩 Tools & Tweaks
 
 - Includes a full set of **system optimization tweaks**, grouped by category:
   - **BCDEdit tweaks** - improve system timer and boot settings.
@@ -54,7 +53,7 @@
 
 ---
 
-## 🔍 Behind the Scenes
+### 🔍 Behind the Scenes
 
 - Over 60 internal script sections ensure modularity and reliability.
 - Added comments, GPL license header, and preparation for future updates.
@@ -62,12 +61,13 @@
 
 ---
 
-## 🔮 Coming Next (V0.2 Preview)
+### 🔮 Coming Next (V0.2 Preview)
  
 - Optional auto-update system
 - MORE SOON 
 
 ---
+
 
 # 🔵 Prospira Free Utility V0.11
 
@@ -76,7 +76,7 @@
 
 ---
 
-## ✨ Improvements & Changes
+### ✨ Improvements & Changes
 
 * Replaced all legacy ASCII art (`/ \`) with a new, modern block-style (`█`) design across the entire utility.
 * Added a new startup section to automatically add the script to Windows Defender exclusions, preventing false positive detections.
